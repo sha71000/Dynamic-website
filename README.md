@@ -3,5 +3,5 @@ Coded in php. Has a login/logout functionality implemented using MySQl database.
 Below are some screenshots
 
 <div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+    <img src="Screen Shot 2021-05-01 at 5.33.25 PM" width="400px"</img> 
 </div>
