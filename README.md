@@ -2,6 +2,19 @@ Coded in php. Has a login/logout functionality implemented using MySQl database.
 
 Below are some screenshots
 
+
 <div align="center">
-    <img src="Screen Shot 2021-05-01 at 5.27.38 PM.png" width="400px"</img> 
+    <img src="Screen Shot 2021-05-01 at 5.27.38 PM.png" width="450px"</img> 
+</div>
+
+<div align="center">
+    <img src="Screen Shot 2021-05-01 at 5.32.23 PM.png" width="450px"</img> 
+</div>
+
+<div align="center">
+    <img src="Screen Shot 2021-05-01 at 5.33.25 PM.png" width="450px"</img> 
+</div>
+
+<div align="center">
+    <img src="Screen Shot 2021-05-01 at 5.33.51 PM.png" width="450px"</img> 
 </div>
